@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on AI Inference Framework like vLLM and SGLang
+- 🔭 I’m currently working on AI/LLM Inference Framework like vLLM and SGLang
 
 <!--
 **JackChuang/JackChuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
